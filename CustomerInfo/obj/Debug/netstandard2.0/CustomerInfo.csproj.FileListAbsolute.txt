@@ -1,0 +1,7 @@
+C:\Users\sunselfc\Downloads\Customer-Web-API-master\CustomerInfo\bin\Debug\netstandard2.0\CustomerInfo.deps.json
+C:\Users\sunselfc\Downloads\Customer-Web-API-master\CustomerInfo\bin\Debug\netstandard2.0\CustomerInfo.dll
+C:\Users\sunselfc\Downloads\Customer-Web-API-master\CustomerInfo\bin\Debug\netstandard2.0\CustomerInfo.pdb
+C:\Users\sunselfc\Downloads\Customer-Web-API-master\CustomerInfo\obj\Debug\netstandard2.0\CustomerInfo.AssemblyInfoInputs.cache
+C:\Users\sunselfc\Downloads\Customer-Web-API-master\CustomerInfo\obj\Debug\netstandard2.0\CustomerInfo.AssemblyInfo.cs
+C:\Users\sunselfc\Downloads\Customer-Web-API-master\CustomerInfo\obj\Debug\netstandard2.0\CustomerInfo.dll
+C:\Users\sunselfc\Downloads\Customer-Web-API-master\CustomerInfo\obj\Debug\netstandard2.0\CustomerInfo.pdb
